@@ -1,8 +1,8 @@
 # MailMute   
 
-**AI-Powered Email Content Analyzer & Smart Unsubscriber**  
+**AI-Powered Email Content Analyser & Smart Unsubscriber**  
 
-MailMute is a desktop application designed to help users **analyze emails, detect unsubscribe opportunities, and manage mailing lists intelligently**. Using AI-inspired pattern matching, it identifies unsubscribe links, evaluates sender credibility, and automates or guides the unsubscription process.  
+MailMute is a desktop application designed to help users **analyse emails, detect unsubscribe opportunities, and manage mailing lists intelligently**. Using AI-inspired pattern matching, it identifies unsubscribe links, evaluates sender credibility, and automates or guides the unsubscription process.  
 
 ---
 
@@ -43,7 +43,7 @@ MailMute is a desktop application designed to help users **analyze emails, detec
 
 ## How It Works  
 
-1. **Analyze Email Content**  
+1. **Analyse Email Content**  
    - Extracts HTML and text content from emails.  
    - Identifies unsubscribe links and headers.  
    - Calculates a confidence score for each detection.  
